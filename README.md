@@ -2,7 +2,7 @@
 
 **Cross-asset correlation cube.**
 
-> Builds the tensor used by [Cross-asset rolling correlation cube](https://www.daru.finance/projects/strategy-corrcube) and several sibling models. By Daniel Gatto, [daru.finance](https://www.daru.finance).
+> Builds the tensor used by [Cross-asset rolling correlation cube](https://daru.finance/projects/strategy-corrcube) and several sibling models. By Daniel Gatto, [daru.finance](https://daru.finance).
 
 Sample Pearson correlation matrix between the asset-level return series of
 the 9-asset universe used throughout the strategy-* research stack
